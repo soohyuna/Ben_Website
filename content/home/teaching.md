@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a park of the teaching team for the following courses at Michigan State University:
+I am a part of the teaching team for the following courses at Michigan State University:
 
 - PHY 241: Physics for Biologists 1
 - PHY 242: Physics for Biologists 2
